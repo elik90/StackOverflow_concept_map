@@ -1,12 +1,16 @@
 # StackOverflow_concept_map
 NLP project analyzing stack overflow posts with 'python' tags from BigQuery's public dataset.
 
+<br>
+
 **Training Elements**
 - CoLab notebook
 - BigQuery
 - NLTK
 - BeautifulSoup
 - SpaCy
+
+<br>
 
 **Insights to Gain**
 1. Given StackOverflow posts in the last 5 years with the 'python' tag:
